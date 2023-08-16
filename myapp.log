@@ -1,0 +1,103 @@
+2023-08-16 23:18:31,111 [INFO] Watching for file changes with StatReloader
+2023-08-16 23:18:36,948 [WARNING] Not Found: /api/get_token/
+2023-08-16 23:18:36,950 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-16 23:19:21,794 [WARNING] Not Found: /api/get_token/
+2023-08-16 23:19:21,795 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-16 23:20:20,190 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-16 23:20:21,374 [INFO] Watching for file changes with StatReloader
+2023-08-16 23:20:28,210 [WARNING] Not Found: /api/get_token/
+2023-08-16 23:20:28,211 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2291
+2023-08-16 23:22:07,632 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-16 23:22:08,924 [INFO] Watching for file changes with StatReloader
+2023-08-16 23:22:14,345 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-16 23:22:15,549 [INFO] Watching for file changes with StatReloader
+2023-08-16 23:22:25,070 [WARNING] Not Found: /api/get_token/
+2023-08-16 23:22:25,071 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-16 23:25:31,584 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-16 23:25:32,807 [INFO] Watching for file changes with StatReloader
+2023-08-16 23:25:37,089 [WARNING] Not Found: /api/get_token/
+2023-08-16 23:25:37,090 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-16 23:28:38,873 [WARNING] Not Found: /api/get_token/
+2023-08-16 23:28:38,874 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-16 23:30:51,248 [WARNING] Not Found: /api/get_token/
+2023-08-16 23:30:51,248 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-16 23:33:26,532 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-16 23:33:27,933 [INFO] Watching for file changes with StatReloader
+2023-08-16 23:33:32,045 [WARNING] Not Found: /get_token/
+2023-08-16 23:33:32,046 [WARNING] "GET /get_token/ HTTP/1.1" 404 2269
+2023-08-16 23:34:25,804 [INFO] Watching for file changes with StatReloader
+2023-08-16 23:34:30,256 [WARNING] Not Found: /get_token/
+2023-08-16 23:34:30,257 [WARNING] "GET /get_token/ HTTP/1.1" 404 2269
+2023-08-16 23:35:14,270 [WARNING] Not Found: /get_token/
+2023-08-16 23:35:14,271 [WARNING] "GET /get_token/ HTTP/1.1" 404 2269
+2023-08-16 23:39:38,005 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-16 23:39:39,198 [INFO] Watching for file changes with StatReloader
+2023-08-16 23:42:46,585 [WARNING] Not Found: /get_token/
+2023-08-16 23:42:46,585 [WARNING] "GET /get_token/ HTTP/1.1" 404 2269
+2023-08-16 23:45:10,728 [WARNING] Not Found: /get_token/
+2023-08-16 23:45:10,729 [WARNING] "GET /get_token/ HTTP/1.1" 404 2269
+2023-08-16 23:45:42,653 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-16 23:45:44,042 [INFO] Watching for file changes with StatReloader
+2023-08-16 23:48:23,867 [WARNING] Not Found: /api/get_token/
+2023-08-16 23:48:23,868 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-16 23:48:39,494 [WARNING] Not Found: /api/get_token/
+2023-08-16 23:48:39,495 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-17 00:01:47,864 [WARNING] Not Found: /api/get_token/
+2023-08-17 00:01:47,864 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-17 00:02:19,588 [WARNING] Not Found: /api/get_token/
+2023-08-17 00:02:19,589 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-17 00:02:31,581 [WARNING] Not Found: /api/get_token/
+2023-08-17 00:02:31,582 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-17 00:07:03,647 [INFO] /Users/sengoku/WishList/WishList/settings_dev.py changed, reloading.
+2023-08-17 00:10:21,461 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:10:29,721 [WARNING] Not Found: /api/get_token/
+2023-08-17 00:10:29,725 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 179
+2023-08-17 00:13:01,333 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:13:30,339 [WARNING] Not Found: /api/get_token/
+2023-08-17 00:13:30,340 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 179
+2023-08-17 00:15:39,285 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:15:51,381 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:16:00,359 [WARNING] Not Found: /api/get_token/
+2023-08-17 00:16:00,361 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-17 00:22:47,590 [WARNING] Not Found: /WishList/api/get_token/
+2023-08-17 00:22:47,591 [WARNING] "GET /WishList/api/get_token/ HTTP/1.1" 404 2316
+2023-08-17 00:23:56,240 [WARNING] Not Found: /api/get_token/
+2023-08-17 00:23:56,242 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2289
+2023-08-17 00:24:59,101 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-17 00:25:00,316 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:25:06,866 [WARNING] Not Found: /api/get_token/
+2023-08-17 00:25:06,867 [WARNING] "GET /api/get_token/ HTTP/1.1" 404 2285
+2023-08-17 00:25:46,080 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-17 00:25:47,417 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:25:56,916 [INFO] /Users/sengoku/WishList/WishList/urls.py changed, reloading.
+2023-08-17 00:25:58,215 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:26:09,866 [INFO] "GET /api/get_token/ HTTP/1.1" 200 30
+2023-08-17 00:27:19,568 [WARNING] Bad Request: /api/create_user/
+2023-08-17 00:27:19,571 [WARNING] "POST /api/create_user/ HTTP/1.1" 400 195
+2023-08-17 00:28:12,642 [WARNING] Forbidden (CSRF token missing.): /api/create_user/
+2023-08-17 00:28:12,643 [WARNING] "POST /api/create_user/ HTTP/1.1" 403 2549
+2023-08-17 00:29:00,791 [WARNING] Bad Request: /api/create_user/
+2023-08-17 00:29:00,792 [WARNING] "POST /api/create_user/ HTTP/1.1" 400 195
+2023-08-17 00:29:45,453 [WARNING] Bad Request: /api/create_user/
+2023-08-17 00:29:45,456 [WARNING] "POST /api/create_user/ HTTP/1.1" 400 195
+2023-08-17 00:30:22,731 [INFO] /Users/sengoku/WishList/WishList/views.py changed, reloading.
+2023-08-17 00:30:23,983 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:30:34,227 [WARNING] Bad Request: /api/create_user/
+2023-08-17 00:30:34,230 [WARNING] "POST /api/create_user/ HTTP/1.1" 400 195
+2023-08-17 00:31:22,540 [WARNING] Bad Request: /api/create_user/
+2023-08-17 00:31:22,542 [WARNING] "POST /api/create_user/ HTTP/1.1" 400 195
+2023-08-17 00:32:09,421 [INFO] /Users/sengoku/WishList/WishList/views.py changed, reloading.
+2023-08-17 00:32:10,615 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:36:19,339 [WARNING] Bad Request: /api/create_user/
+2023-08-17 00:36:19,345 [WARNING] "POST /api/create_user/ HTTP/1.1" 400 195
+2023-08-17 00:36:24,540 [INFO] /Users/sengoku/WishList/WishList/views.py changed, reloading.
+2023-08-17 00:36:25,741 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:36:29,080 [WARNING] Bad Request: /api/create_user/
+2023-08-17 00:36:29,081 [WARNING] "POST /api/create_user/ HTTP/1.1" 400 195
+2023-08-17 00:37:16,693 [WARNING] Bad Request: /api/create_user/
+2023-08-17 00:37:16,701 [WARNING] "POST /api/create_user/ HTTP/1.1" 400 195
+2023-08-17 00:50:56,167 [INFO] Watching for file changes with StatReloader
+2023-08-17 00:51:14,321 [WARNING] Bad Request: /api/create_user/
+2023-08-17 00:51:14,323 [WARNING] "POST /api/create_user/ HTTP/1.1" 400 195
+2023-08-17 01:25:35,536 [INFO] Watching for file changes with StatReloader
+2023-08-17 01:25:48,477 [INFO] "POST /api/create_user/ HTTP/1.1" 201 27

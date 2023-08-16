@@ -1,0 +1,53 @@
+{
+  "files.autoSave": "onFocusChange",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "'Source Han Code JP', Menlo, Monaco, 'Courier New', monospace",
+  "editor.tabSize": 2,
+  "editor.formatOnType": true,
+  "editor.renderControlCharacters": true,
+  "breadcrumbs.enabled": true,
+  "editor.renderWhitespace": "all",
+  "editor.hover.enabled": false,
+  "explorer.confirmDelete": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "security.workspace.trust.untrustedFiles": "open",
+  "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+  "editor.minimap.enabled": false,
+  "php-cs-fixer.lastDownload": 1690987945030,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "debug.allowBreakpointsEverywhere": true,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "php.validate.executablePath": "",
+  "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    "**/*.scss",
+    "**/*.sass",
+    "**/*.ts"
+  ],
+  "liveServer.settings.port": 8888,
+  "php.debug.executablePath": "/Applications/MAMP/bin/php/php7.4.1/bin/php",
+  "explorer.confirmDragAndDrop": false,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.excludeLanguages": [
+    "markdown"
+  ],
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "emmet.includeLanguages": {
+    "django-html": "html",
+  },
+  "emmet.preferences": {
+  },
+  "[python]": {
+    "editor.tabSize": 2,
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "python.analysis.extraPaths": [
+    "/Users/sengoku/myenv/lib/python3.10/site-packages/",
+    "/source"
+  ],
+  "python.analysis.typeCheckingMode": "basic",
+}
